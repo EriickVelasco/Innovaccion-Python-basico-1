@@ -5,5 +5,5 @@
 - Computadora con Windows, Linux o MacOs
 - Editor de texto como [Visual Studio Code](https://code.visualstudio.com/)
 ------------------------------------------
-![](imagenespython1\logo_python.png)
+![Logo de python](imagenespython1\logo_python.png)
 
